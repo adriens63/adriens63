@@ -1,8 +1,52 @@
-- 👋 Hi, I’m @adriens63
-- 👀 ENSAE student 🌱 
-- 📫 You can reach me on my linkedin down below 
+<pre>
 
-https://fr.linkedin.com/in/adrien-servi%C3%A8re-5a24501b8
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
+┌──┤ Adrien Servière ├─────────▰▰▰
+│
+├─▣ Some of my projects are open-sourced here
+├─▣ IP-Paris and Paris-Saclay University
+├─▣ ENSAE Paris
+├─▣ Preparatory class Blaise Pascal (MP*)
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ Featured projects ├─────────▰▰▰
+│
+├─◈ <a href="https://github.com/adriens63/bert_fine_tuning_for_mlm_and_token_classification">Neural network fine-tuning</a>
+├─◈ <a href="https://github.com/adriens63/word2vec_tf">Word embedding</a>
+├─◈ <a href="https://github.com/adriens63/pricing_lifted_heston_model">Pricing in the lifted Heston model</a>
+├─◈ <a href="https://github.com/adriens63/optimal_transport_for_domain_adaptation">Optimal transport for domain adaptation</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ Literature review ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/adriens63/market_making_by_an_fx_dealer_summary">Market making by an FX dealer</a>
+├─◈ <a href="https://github.com/adriens63/markov_switching_garch_model">Markov switching GARCH model</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ Contact ├─────────▰▰▰
+│
+├─◈ You can reach me here: <a href="https://www.linkedin.com/in/adrien-serviere/">LinkedIn</a>
+├─◈ Or here: <a href="https://t.me/adrienserviere">Telegram</a>
+│
+└───────────────────────────────▰▰▰
+
+</pre>
+
+
+
 
 <!---
 adriens63/adriens63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
