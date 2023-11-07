@@ -44,7 +44,7 @@
 └───────────────────────────────▰▰▰
 <div align="center">
   <div style="display: flex;">
-   <img width="550px" src="https://github.com/adriens63/adriens63_terminal/blob/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+   <img width="500px" src="https://github.com/adriens63/adriens63_terminal/blob/terminal/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
   </div>
 </div>
 
