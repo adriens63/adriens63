@@ -22,14 +22,14 @@
 
 ┌──┤ Featured projects ├─────────▰▰▰
 │
-├─◈ <a href="https://github.com/adriens63/bert_fine_tuning_for_mlm_and_token_classification">Neural network fine-tuning</a>
+├─◈ <a href="https://github.com/adriens63/bert_fine_tuning_for_mlm_and_token_classification">Neural network BERT fine-tuning</a>
 ├─◈ <a href="https://github.com/adriens63/word2vec_tf">Word embedding</a>
 ├─◈ <a href="https://github.com/adriens63/pricing_lifted_heston_model">Pricing in the lifted Heston model</a>
 ├─◈ <a href="https://github.com/adriens63/optimal_transport_for_domain_adaptation">Optimal transport for domain adaptation</a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ Literature review ├───────▰▰▰
+┌──┤ Paper reviews ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/adriens63/market_making_by_an_fx_dealer_summary">Market making by an FX dealer</a>
 ├─◈ <a href="https://github.com/adriens63/markov_switching_garch_model">Markov switching GARCH model</a>
