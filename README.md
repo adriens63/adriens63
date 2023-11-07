@@ -29,7 +29,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ Papers reading and review ├───────▰▰▰
+┌──┤ Papers reading and reviews ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/adriens63/market_making_by_an_fx_dealer_summary">Market making by an FX dealer</a>
 ├─◈ <a href="https://github.com/adriens63/markov_switching_garch_model">Markov switching GARCH model</a>
