@@ -29,7 +29,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ Paper reviews ├───────▰▰▰
+┌──┤ Papers reading and review ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/adriens63/market_making_by_an_fx_dealer_summary">Market making by an FX dealer</a>
 ├─◈ <a href="https://github.com/adriens63/markov_switching_garch_model">Markov switching GARCH model</a>
@@ -42,8 +42,29 @@
 ├─◈ Or here: <a href="https://t.me/adrienserviere">Telegram</a>
 │
 └───────────────────────────────▰▰▰
+<div align="center">
+  <div style="display: flex;">
+   <img width="550px" src="https://github.com/adriens63/adriens63_terminal/blob/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+  </div>
+</div>
 
+
+
+  
 </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
